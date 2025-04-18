@@ -1,17 +1,16 @@
 # Configure main menu and social menu
-#[[main]]
-#identifier = "home"
-#name = "Home"
-#url = "/"
-#[main.params]
-#icon = "home"
-#newtab = true
+# [[main]]
+# identifier = "home"
+# name = "Home"
+# url = ""
+# [main.params]
+# icon = "home"
+# newtab = true
 
 [[social]]
 identifier = "instagram"
 name = "Instagram"
-url = "https://instagram.com/c-murph-swim"
+url = "https://www.instagram.com/c-murph-swim"
 
 [social.params]
-icon = "brand-instagram"
-
+icon = ""
