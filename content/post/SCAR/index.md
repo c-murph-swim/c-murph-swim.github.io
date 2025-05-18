@@ -350,6 +350,7 @@ After the first male finisher (Jorge) came in, Kent asked us to meet him at the 
 </p>
 
 ## Final Thoughts
+> **Final Time: 15:04:48.5, 1st place woman, 1st place OA**
 
 ### Highlights
 - There is no better community than the SCAR community. I am so grateful to have met such wonderful people, who love swimming and can push through the toughest conditions. 
