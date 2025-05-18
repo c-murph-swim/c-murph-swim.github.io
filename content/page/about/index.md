@@ -14,7 +14,7 @@ Corey Murphey is a marathon open water swimmer based in Colorado. Originally fro
 When she is not swimming, Corey is likely working on her doctoral dissertation or hanging out with her three unruly but incredibly adorable Golden Retrievers. 
 
 ## Swim Highlights
-- 2025 SCAR, Overall Champion
+- [2025 SCAR swim challenge](https://c-murph-swim.github.io/p/scar-2025/), Overall Champion
 - 2024 Horsetooth 10k, 7th OA, 1st place AG
 - 2023 Horsetooth 10k, 10th OA
 
