@@ -2,7 +2,7 @@
 title: SCAR 2025
 description: Race recap from the 2025 SCAR Swim Challenge 
 slug: scar-2025
-date: 2025-04-29 00:00:00+0000
+date: 2025-04-27 00:00:00+0000
 image: figs/buckle-jorge.jpeg
 toc: true
 categories:
@@ -117,7 +117,7 @@ I swam to the finish boats that would take us back to the parking area while the
 
 All in all, it was a great start to the week. Finishing that distance gave me a great deal of confidence going into the second day. I felt like I had handled the open water elements well, fed sufficiently, and didn't over-exert myself. 
 
-**3:15, 2nd place Stage 1, 2nd place OA**
+> **3:15, 2nd place Stage 1, 2nd place OA**
 
 
 ### Highlights
@@ -181,7 +181,7 @@ This was also when Ildy passed me. A bit rattled by our encounter with Dolly, bo
 
 Ildy and I floated (by boat) back to the parking area. I then immediately got in the car to drive to the infamous Apache Lake Resort. We were told to avoid going back to Mesa due to road closures and to avoid driving to Apache in the dark. I didn't really understand why until we were sliding around on a 12% grade dirt road in my AWD SUV with a dirt road traction mode. That was a bit scary! Thank goodness I read the race emails and advice before driving to Apache! 
 
-**3:06, 2nd place Stage 2, 2nd place OA**
+> **3:06, 2nd place Stage 2, 2nd place OA**
 
 ### Highlights
 - Led the race most of the day
@@ -269,9 +269,10 @@ The first six of the finishers then boarded a boat with our kayakers and floated
 </p>
 
 
-**5:59, 3rd place Stage 3, 1st place OA**
+> **5:59, 3rd place Stage 3, 1st place OA**
+
 ### Highlights
-- I finished! 
+- I finished Apache! 
 - I fed as planned
 - I took my coach's advice and tried to be patient the whole swim. I think this worked well. 
 - The boat ride back to the marina with the first six Apache finishers
@@ -318,7 +319,7 @@ And then I ran headfirst into a tree in the middle of the lake. It didn't hurt m
 
 After touching it, I floated back to shore as a few people approached the finish. Maggie and Susan were right behind me -- I was so grateful to be done, but also to finish close to two people I respect so much. SCAR was over. I had finished it! And I had won it! 
 
-**2:45, 2nd place Stage, 1st place OA**
+> **2:42, 2nd place Stage, 1st place OA**
 
 
 ### Highlights
