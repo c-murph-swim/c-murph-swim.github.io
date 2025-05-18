@@ -353,6 +353,7 @@ After the first male finisher (Jorge) came in, Kent asked us to meet him at the 
 
 ### Highlights
 - There is no better community than the SCAR community. I am so grateful to have met such wonderful people, who love swimming and can push through the toughest conditions. 
+- New swimming friends: Maggie, Sue, Ildy, Jorge, etc. The list is endless!
 - I learned a great deal about myself and my abilities as a swimmer and endurance athlete
 - Spending 4 days with my mom and learning to trust her unconditionally
 
