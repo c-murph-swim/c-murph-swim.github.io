@@ -15,7 +15,7 @@ weight:        # You can add weight to some posts to override the default sortin
 # SCAR 2025
 
 <p align="center">
-  <img alt="SCAR" src="figs/SCAR-sign.jpeg" width="50%">
+  <img alt="SCAR" src="figs/SCAR-sign.jpeg" width="100%">
 </p>
 
 When I started writing this, I thought I would be able to fit everything in one, concise post. After a few hours of writing, this became a beast of an essay, so I apologize for the length. If you just want the highlights, look no further: I swam ~40 miles over 4 days and [**won**](https://www.webscorer.com/seriesresult?seriesid=387371) (overall!!). This race pushed me in ways I had never imagined before. But this race also revealed the areas where I excel. It was a huge confidence boost that I needed, especially after breaking my elbow in November. I am super proud of just finishing all 4 days, but I am even more grateful that I had the opportunity to meet the countless kind-hearted, determined, and gritty people I swam with over those 4 days. The SCAR community is unparallelled. 
@@ -27,7 +27,7 @@ If you want to read an (also long) interview I did with Steven Munatones, head o
 Patty's swim is not an official part of SCAR, nor is there a set course. I mention this swim because I think it highlights what SCAR is all about: community. Swimmers and kayakers alike swim a simple out and back loop in Saguaro Lake. After about 200 yards, I stopped because I didn't know where I was going. Thankfully, some friendly strangers -- who I later learned were Maggie Regan and Ryan Stille -- set me back on course. I was just happy to be in the water after a long drive to Arizona the previous day.  
 
 <p align="center">
-  <img alt="On a mission to find water" src="figs/pattyswim-1.jpeg" width="50%">
+  <img alt="On a mission to find water" src="figs/pattyswim-1.jpeg" width="100%">
 </p>
 
 My mom, Jill, and my friend Amie also swam at Patty's swim. Amie, a triathlete, braved the cold water (in a wetsuit, of course). My mom, being the safety-oriented physician she is, wore a black Stanford cap in my honor. One of these days, she will learn about visibility in open water 🤦‍♀️. On my way back from what I think was the "island" we were told to swim to, I met up with Amie and my mom. We swam back to the dock and braved the rocky exit from the water. There are lots of prickly and spiky things in Arizona. Just keep that in mind when you decide to walk barefoot on a rocky path. 
@@ -35,7 +35,7 @@ My mom, Jill, and my friend Amie also swam at Patty's swim. Amie, a triathlete, 
 After the swim, Amie, my mom, and I went back to our AirBnB to relax and pack for the coming days while also staying out of the very hot Arizona sun. As Colaradans, we were very unprepared for 90+F degree temperatures. Being me, I brought an abundance of black clothing that was way too warm for the Arizona weather. 
 
 <p align="center">
-  <img alt="The best crew" src="figs/crew.jpeg" width="50%">
+  <img alt="The best crew" src="figs/crew.jpeg" width="100%">
 </p>
 
 Patty's swim also marked 5 months to the day post elbow fracture, which I acquired walking across a parking lot... as if you needed further evidence that I am a swimmer who can't walk on land. This is just to illustrate that even the lead up to this event was a challenge. I had to rebuild my endurance base in January through kicking and dealt with some hand numbness from ulnar nerve impingement throughout the bulk of my training. My elbow is fine now. And I firmly believe that my elbow fracture ultimately helped me. I had to revise my stroke mechanics, strength training, and training volume, which all helped me get through some of the heavier weeks of training leading up to SCAR. 
@@ -43,7 +43,7 @@ Patty's swim also marked 5 months to the day post elbow fracture, which I acquir
 #### Party time! 
 
 <p align="center">
-  <img alt="map + me" src="figs/map+me.jpeg" width="50%">
+  <img alt="map + me" src="figs/map+me.jpeg" width="100%">
 </p>
 
 Kent (the race organizer) hosts a welcome party at his incredible house the evening before SCAR begins. There was a band, swag, good lasagna, and a motivational speaker (Chris Dorris). More importantly, the vibes were incredible (I cannot believe I just wrote the word "vibes"). I was surrounded by so many successful channel swimmers with remarkable swimming resumes. It was amazing to hear all of their stories and meet the people I would be swimming with over the subsequent days. Amie found her people (she is British, but identifies as Aussie because why not?)
@@ -51,14 +51,14 @@ Kent (the race organizer) hosts a welcome party at his incredible house the even
 If I'm honest, this is when my imposter syndrome set in a bit. While I have swum since I was in diapers, SCAR would be my first attempt at anything longer than a 10k in open water. Being surrounded by so many swimmers who have swum A LOT further than I have was a bit intimidating. But I remained excited to learn from them over the following few days.
 
 <p align="center">
-  <img alt="Swag" src="figs/goodies2.jpeg" width="50%">
+  <img alt="Swag" src="figs/goodies2.jpeg" width="100%">
 </p>
 
 
 Amie, my unofficial social media manager, made me take the obligatory check-in pictures. So please enjoy. 
 
 <p align="center">
-  <img alt="Wave 3" src="figs/wave3-list.jpeg" width="50%">
+  <img alt="Wave 3" src="figs/wave3-list.jpeg" width="100%">
 </p>
 
 As the party wrapped up, we escaped back to our AirBnB to pack for day 1! My four day long SCAR adventure was set to begin in just under 12 hours.
@@ -66,7 +66,7 @@ As the party wrapped up, we escaped back to our AirBnB to pack for day 1! My fou
 ## Day 1: Saguaro (~8.5 miles)
 
 <p align="center">
-  <img alt="Saguaro Map" src="figs/saguaro-map.png" width="80%">
+  <img alt="Saguaro Map" src="figs/saguaro-map.png" width="100%">
 </p>
 
 SCAR begins! Check-in began at 7:30 am. As a chronic early person, I arrived at 7:10 am after a 30 minute drive from our home base in Mesa, AZ. In hindsight, my early arrival set me up for an even longer day than I needed, but I would have been much more anxious had I arrived any later. That said, I was proud of myself for only arriving 20 minutes early. 18 year old Corey would have insisted on arriving an hour early (my apologies to everyone who knew me and had to deal with me when I was a teenager). 
@@ -80,13 +80,13 @@ SCAR begins! Check-in began at 7:30 am. As a chronic early person, I arrived at 
 Kent and his team of volunteers do a phenomenal job of getting the kayakers and swimmers to where the need to be each day. They have to get 40 kayaks, 40 swimmers, and 40 kayakers from a meeting area to the swim start each day. The swim starts were largely inaccessible by car, so we met near the finish and boated up to the starts. To do that, the volunteers daisy-chain the kayaks and pull them behind pontoon boats that carry the swimmers and their kayakers. This takes time, especially with pontoon boats. With only a few boats available, on day 1, it took about 2.5 hours to carry waves one and two up to a staging area near the start. 
 
 <p align="center">
-  <img alt="Saguaro" src="figs/saguaro.jpeg" width="50%">
+  <img alt="Saguaro" src="figs/saguaro.jpeg" width="100%">
 </p>
 
 Since desitin (aka diaper cream, the sunscreen of choice for open water swimmmers) is extremely messy, the organizers asked us not to put it on before we got to the staging area to protect the boats' upholstery. We were told that we would have ample time to lube up at the staging area once we got there. However, because it had taken wave 3 so long to get from the docks to the staging area, we were given less than 5 minutes. This meant I had to rush to put on desitin. I missed a few spots. I also didn't have time to help my mom set up the kayak (e.g., tethering bottles, loading dry bags, setting up a camera). I think we faired okay given the rush, but I definitely took this rush as a lesson for the following days: **Be prepared to have only a few minutes before the start. Put on a layer of sunscreen before you get on the boats just in case. Bring fewer things on the kayak to facilitate faster setup.**
 
 <p align="center">
-  <img alt="Sunburn" src="figs/sunburn.jpeg" width="50%">
+  <img alt="Sunburn" src="figs/sunburn.jpeg" width="100%">
 </p>
 
 It seemed like I had barely gotten off the boat before I had to get back on. Pirate, one of the volunteer boat captains, took us about 1 mile upstream from the staging area to the start buoys - red buoys that sit in front of the dam between Saguaro and Canyon lakes. Meanwhile, our kayakers paddled from the staging area to start. We would meet up with them somewhere between the start and the staging area. Pirate told us that we were to jump off the boats into water (of unknown temperature) when he said go. We were to swim about 10 meters to the buoys, put one hand on the buoys and raise the other in the air, then Kent (on another boat) would tell us to go when all of our hands were in the air. So I jumped, put one hand on the buoy and the other in the air, and heard go! So I went! 
@@ -112,7 +112,7 @@ But then we turned a sharp, blind left corner and I saw the red finish buoys 25 
 I swam to the finish boats that would take us back to the parking area while the kayakers kayaked (more!!) across the body of the lake. It was only an extra 1/2 mile for them, but I felt for my mom who was already having a rough day and had to kayak even more. That said, she didn't complain. 
 
 <p align="center">
-  <img alt="Day 1 complete" src="figs/saguaro-finish.jpeg" width="50%">
+  <img alt="Day 1 complete" src="figs/saguaro-finish.jpeg" width="100%">
 </p>
 
 All in all, it was a great start to the week. Finishing that distance gave me a great deal of confidence going into the second day. I felt like I had handled the open water elements well, fed sufficiently, and didn't over-exert myself. 
@@ -139,14 +139,14 @@ All in all, it was a great start to the week. Finishing that distance gave me a 
 ## Day 2: Canyon (~9 miles)
 
 <p align="center">
-  <img alt="Canyon map" src="figs/canyon-map.png" width="80%">
+  <img alt="Canyon map" src="figs/canyon-map.png" width="100%">
 </p>
 
 Everyone told me that Canyon is the prettiest and their favorite swim of SCAR. So I was excited for this day. Since I felt pretty good, I wanted to try to push a bit more. I knew I could finish the distance, so I wanted to try to do it a bit faster. 
 
 
 <p align="center">
-  <img alt="Canyon meetup" src="figs/canyon-start.jpeg" width="50%">
+  <img alt="Canyon meetup" src="figs/canyon-start.jpeg" width="100%">
 </p>
 
 The meeting point for Canyon is a bit further from Mesa -- a 45 minute drive instead the 30 mins to Saguaro. That morning, we had to pack up and check out of our AirBnB to prepare for the move to the Apache Lake Resort later that afternoon. So we arrived at the meeting point around 7:20. I was better prepared with food, water, and a layer of sunscreen after learning my lesson at Saguaro. I was prepared to wait around for hours today. First major lesson of SCAR: adapt each day! 
@@ -154,13 +154,13 @@ The meeting point for Canyon is a bit further from Mesa -- a 45 minute drive ins
 Fortunately, things went a bit quicker before the Canyon start. After about 45 minutes, I was on a boat to the start! And it was a fast boat! We got to the staging area before wave 1 had departed, leaving ample time to lube up with more sunscreen, desitin, and lanolin. I was so grateful for the extra time. But it wasn't too much extra time... just enough to lube up, pack up the kayak, and mentally prepare for the day. 
 
 <p align="center">
-  <img alt="SCAR flag" src="figs/SCAR-flag.jpeg" width="50%">
+  <img alt="SCAR flag" src="figs/SCAR-flag.jpeg" width="100%">
 </p>
 
 At the end of each day, Kent adjusts the waves so that swimmers be with other swimmers approximately their speed. So Wave 3 got a bit bigger -- now Maggie, Ryan, Jorge, and Stefan joined Ildy, Sue, and me. The ride up to the start was gorgeous. I tried to take in as much as possible, but alas even those gorgeous images are fading. 
 
 <p align="center">
-  <img alt="Posing for the camera in my desitin" src="figs/canyon-pose2.jpeg" width="50%">
+  <img alt="Posing for the camera in my desitin" src="figs/canyon-pose2.jpeg" width="100%">
 </p>
 
 The start procedure was the same as Saguaro -- hop off the boat, swim to the buoys, raise your hand in the air, listen for Kent to say "go!" We were all pros at this by now. As expected, Ildy took off. But on this day, I decided I was going to stay with her until I couldn't. Since the wave spacing was a bit shorter, we immediately starting making our way through the previous waves around the same time we found our kayakers. 
@@ -170,7 +170,7 @@ Side note: Ildy's kayaker was Chris Morgan, who was the assistant coach at Stanf
 Around 2 miles in, Ildy and I had moved to the front of the previous waves. We were swimming in parallel at that point. I felt good so I decided to move to the front. In retrospect, it was too early to do this, but race tactics are not my strength. As I made the pass to go around Ildy, my mom started screaming at me. Internally, I thought "I am passing someone, could you not scream at me please?" But she was just trying to get my attention so I would look at the speedboat that was floating alongside us. My dear friend Amie, whom we had left behind at the parking lot, was piloting a speed boat. My initial thought was "Huh... whose boat did Amie steal?" For the record, Amie didn't steal a boat; she rented one from the local marina. And then she followed the race for about 40 minutes, taking incredible pictures and being the all-around joy of a human she is. I think seeing Amie revived me quite a bit, so I kept pushing. 
 
 <p align="center">
-  <img alt="Canyon Swimming" src="figs/canyon-stroke5-perfect.jpeg" width="50%">
+  <img alt="Canyon Swimming" src="figs/canyon-stroke5-perfect.jpeg" width="100%">
 </p>
 
 I then led the race for the next 5-6 miles. I found this stressful. I started shorting my feeds because I could see Ildy right behind me at every feed. While I am a competitive person, I don't love feeling competitive. I'd rather just push myself than race other people. No shame or judgement to people who like racing. It's just not my favorite part of sport. And shorting feeds during long swims like this is a massive mistake. Taking an extra few seconds to gulp down a few extra calories can make the difference betweeen bonking and not. And I definitely bonked.
@@ -201,14 +201,14 @@ Ildy and I floated (by boat) back to the parking area. I then immediately got in
 
 ## Day 3: Apache (~14.2 miles, but some say up to 17 miles)
 <p align="center">
-  <img alt="Apache map" src="figs/apache-map.png" width="80%">
+  <img alt="Apache map" src="figs/apache-map.png" width="100%">
 </p>
 
 
 Pre-SCAR, if you had asked me what I was most scared of, I would have said Apache. "Scared" might not be the right word. I just had a lot of questions about how I would handle it. Apache is known for its extremely cold start, brutal winds that cause kayaks to get separated from the swimmers, and non-trivial length. I had mentally prepared to be swimming for around 8 hours, but that is about 3x the duration of my longest swim pre-SCAR. I didn't know how my stomach would handle 8 hours of non-solid food. I didn't know how I would handle 8 hours of 60ish degree water. All of this is to say, I had a lot of questions about Apache going into it. So I focused on controlling what I could and staying patient. I think that approach was the best for me for the day. It wasn't about winning or racing; it was about finishing. 
 
 <p align="center">
-  <img alt="Apache Nutrition" src="figs/nutrition-apache.jpeg" width="50%">
+  <img alt="Apache Nutrition" src="figs/nutrition-apache.jpeg" width="100%">
 </p>
 
 Since Apache is a long day of swimming, the race starts a bit earlier. We meet at 5:30 am at the Apache Lake marina, which is a 2 minute walk from our hotel rooms at the resort. At least we didn't have to drive today! 
@@ -216,7 +216,7 @@ Since Apache is a long day of swimming, the race starts a bit earlier. We meet a
 During the previous days, I had gotten quite hot by the time we got on the boats to the staging area. Having learned my lesson, I minimized the amount of clothes I brought with me to the Apache start. This was again a mistake. The boat ride to the staging area of Apache was incredibly cold. At some point, I had put on every item of clothing from my post-race dry bag and was still shivering. At least I had packed gloves, a beanie, and my changing poncho! 
 
 <p align="center">
-  <img alt="Before Apache" src="figs/apache-before-lake.jpeg" width="50%">
+  <img alt="Before Apache" src="figs/apache-before-lake.jpeg" width="100%">
 </p>
 
 When we arrived at the staging area, we were informed that the U-Haul filled with the rental kayaks had been left at the Apache lake marina, a 45 minute drive from the staging area. The private kayaks (mine included) were at the staging area already. Kent offered to let those with private kayaks start as soon as they wanted. While I appreciated that, I didn't want to spend the whole day on Apache alone. So my mom and I decided to wait for the rental kayaks to be delivered. As the sun came up, the staging beach got warmer so at least I wasn't cold anymore! 
@@ -224,7 +224,7 @@ When we arrived at the staging area, we were informed that the U-Haul filled wit
 After about an hour and half, the rented kayaks arrived and Waves 1, 2, and 3 all rushed to get ready, lube up, and get to the start. I put my desitin on a hair too early. The air still wasn't warm enough to stand in a suit with no clothes on, so I got a bit colder than was ideal when waiting for the start. The boat ride to the start was also, frankly, miserable. I have never shivered that much in my life. But fortunately we were greeted by the sight of the incredible Roosevelt dam before us. This monumental backdrop would be the start of this monumental day. 
 
 <p align="center">
-  <img alt="Apache View" src="figs/apache-view.jpeg" width="50%">
+  <img alt="Apache View" src="figs/apache-view.jpeg" width="100%">
 </p>
 
 Then the same procedure as the previous days. Hop off the boat, then... oh my goodness was that water cold. I heard a few squeals and yells from my fellow swimmers. The incredible Abigail Fairman, who had joined us for half of Apache, said, "Oh this is 56 degrees!" Other reports from that day said the start was 52. I thought it was mid-50s as well (no pins and needles, but definitely did take your breath away when you jumped in). As we swam toward the buoys, the current was apparent. The buoys were moving backward away from us. We were going to have to fight the current for a bit at the start. The start felt like it took ages (probably because of the cold). By the time I heard Kent say "go!" my arms were numb. It took a bit to get moving. 
@@ -234,7 +234,7 @@ For the first 500 yards or so, Ildy and I breathed toward each other before she 
 About 1 mile in, I felt a warm current come up from underneath me. This was the weirdest feeling I've ever had in my life. It was bubbly and made my skin tingle. It had been so cold up to that point that I legitimately thought something was wrong with me. Was this hypothermia? I went through my hypothermia checklist: Can I talk? Are my cheeks numb? Are my hands cramping? Am I shivering? Have I stopped shivering? Am I able to think clearly? After going through that list, I realized that I was fine; it was just a weird, bubbly current. But I did almost stop to tell my mom about it (and she would have laughed at me).
 
 <p align="center">
-  <img alt="Apache swimming" src="figs/eri-side3.jpeg" width="50%">
+  <img alt="Apache swimming" src="figs/eri-side3.jpeg" width="100%">
 </p>
 
 Patience was the theme of the day. Even though I could see Sue, I told myself I had plenty of time to race her at the end. I took my time with my feeds. I was in it for the long haul and doing everything I could just to finish. 
@@ -246,7 +246,7 @@ I enjoyed section 1. Section 2 was where I struggled most that day. I wasn't yet
 Then there was the third section. The winds were brutal, but I was sort of used to them by this section. My mom lost her hat at one point (it blew off her head and is now resting at peace somewhere in the bottom of Apache). There was a 10 minute period where I don't think we moved at all due to the current. I could see the same rock on my left side for a very long time. I was about 1 minute behind Sue McKay throughout this whole section, never getting closer, but never letting her out of my sight. 
 
 <p align="center">
-  <img alt="Apache Rocks" src="figs/apache-rocks.jpeg" width="50%">
+  <img alt="Apache Rocks" src="figs/apache-rocks.jpeg" width="100%">
 </p>
 
 It looked like we were about to head back into the canyons (where Canyon had started the day before). As I had not studied the map well, I had no idea where the finish was or how much more I had. I decided that we had about 4 miles left and I just had to figure out how to deal with the headwind. 
@@ -259,13 +259,13 @@ Upon finishing, I floated in the water for a good 10 minutes with Sue McKay. Ken
 
 
 <p align="center">
-  <img alt="Best Kayaker" src="figs/apache-post.jpeg" width="50%">
+  <img alt="Best Kayaker" src="figs/apache-post.jpeg" width="100%">
 </p>
 
 The first six of the finishers then boarded a boat with our kayakers and floated back to the marina, cheering for the swimmers who were still battling the wind along the way. I think this was one of my favorite moments of SCAR. I got to talk to Sue and Haley extensively about their upcoming swims and favorite parts of this experience. It was also on this boat ride that Sue and I learned we had moved into second and first place overall (respectively). Sadly, Ildy had a bout of tachycardia around 6km into the race and had to stop. 
 
 <p align="center">
-  <img alt="Apache sunset" src="figs/apache-sunset.jpeg" width="50%">
+  <img alt="Apache sunset" src="figs/apache-sunset.jpeg" width="100%">
 </p>
 
 
@@ -288,7 +288,7 @@ The first six of the finishers then boarded a boat with our kayakers and floated
 ## Day 4: Roosevelt (10 km sunset/night swim)
 
 <p align="center">
-  <img alt="Roosevelt map" src="figs/roosevelt-map.png" width="80%">
+  <img alt="Roosevelt map" src="figs/roosevelt-map.png" width="100%">
 </p>
 
 After 3 long days, Roosevelt is the final hoorah and celebration. It's also quite a bit different from the other 3 days. First, it's a triangle course outlined by buoys. Second, it's a night swim. Third, it's "only" 10km. There are very few photos from Roosevelt, largely because it was at night. So I apologize for the upcoming wall of text. 
@@ -365,31 +365,31 @@ After the first male finisher (Jorge) came in, Kent asked us to meet him at the 
 
 Just a girl and her kayaker
 <p align="center">
-  <img alt="Mom and Me" src="figs/after-mom+me.jpeg" width="50%">
+  <img alt="Mom and Me" src="figs/after-mom+me.jpeg" width="100%">
 </p>
 
 Kayakers get to swim in Apache too! 
 <p align="center">
-  <img alt="Kayaker Swim" src="figs/kayaker-swim.jpeg" width="50%">
+  <img alt="Kayaker Swim" src="figs/kayaker-swim.jpeg" width="100%">
 </p>
 
 Some fearless ducks at Canyon
 <p align="center">
-  <img alt="Ducks" src="figs/ducks-canyon.jpeg" width="50%">
+  <img alt="Ducks" src="figs/ducks-canyon.jpeg" width="100%">
 </p>
 
 The finish buoy (when I could see it before Saguaro)
 <p align="center">
-  <img alt="Buoy" src="figs/buoy.jpeg" width="50%">
+  <img alt="Buoy" src="figs/buoy.jpeg" width="100%">
 </p>
 
 
 Once a bag lady, always a bag lady. 
 <p align="center">
-  <img alt="Bag Lady" src="figs/bags.jpeg" width="50%">
+  <img alt="Bag Lady" src="figs/bags.jpeg" width="100%">
 </p>
 
 The coolest kayaker
 <p align="center">
-  <img alt="Kayaker" src="figs/eri-side1.jpeg" width="50%">
+  <img alt="Kayaker" src="figs/eri-side1.jpeg" width="100%">
 </p>
