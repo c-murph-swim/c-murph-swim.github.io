@@ -28,3 +28,5 @@ This swim got off to a rough start with an embarrassing bout of seasickness and 
 I am so grateful to my crew, my coaches (Neil Hailstone and de facto coach/open water bible/swim buddy Sarah Thomas), Boulder Aquatic Masters, my pilates teacher Erica Ruge, my PT Jim Heafner, training buddies, and countless friends and family who picked me up and encouraged me along this journey. Love you all 💙
 
 A final note about the song in this reel: a few weeks ago my friend, Tim Stumbaugh invited me to a Jack's Mannequin at Red Rocks. The song "Swim" has been on my mind ever since. And it helped me through the toughest parts of this swim. I thought a lot about both the literal and figurative meanings of the lyrics —and it was so relevant at every moment. Hence it stayed with me all 9 hours. This song was important to me when it was released many (many) moons ago and it still is apparently. So yay for nostalgic music that plays on repeat for almost 9 hours in your head. And yay for working through tough moments any way you can (even when it’s not pretty).
+
+{{< gallery "figs" >}}
