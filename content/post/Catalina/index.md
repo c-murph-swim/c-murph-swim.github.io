@@ -13,6 +13,11 @@ tags:
     - ocean
     - oceans-7
 weight:        # You can add weight to some posts to override the default sorting (date descending)
+resources:
+  - src: "figs/amie+mom+me-boat.jpg"
+    title: "Staving off seasickness"
+    params:
+      alt: "Staving off seasickness"
 ---
 
 # Catalina Channel Crossing -  August 7-8, 2025

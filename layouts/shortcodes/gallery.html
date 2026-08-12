@@ -3,8 +3,20 @@
   {{ $matchString := printf "%s/*" $folder }}
   
   {{ range .Page.Resources.Match $matchString }}
-    <div class="gallery-item">
-      <img src="{{ .RelPermalink }}" alt="{{ .Name }}" style="width: 100%; height: auto; border-radius: 4px;">
-    </div>
+    <figure class="gallery-item" style="margin: 0;">
+      
+      <!-- Set alt text: prefer params.alt, then Title, then fallback to filename -->
+      {{ $alt := .Params.alt | default .Title | default .Name }}
+      
+      <img src="{{ .RelPermalink }}" alt="{{ $alt }}" style="width: 100%; height: auto; border-radius: 4px;">
+      
+      <!-- Only display a caption if you defined a 'title' in the front matter -->
+      {{ with .Title }}
+        <figcaption style="font-size: 0.9em; text-align: center; color: #666; margin-top: 8px;">
+          {{ . }}
+        </figcaption>
+      {{ end }}
+      
+    </figure>
   {{ end }}
 </div>
