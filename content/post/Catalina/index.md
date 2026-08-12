@@ -14,7 +14,7 @@ tags:
     - oceans-7
 weight:        # You can add weight to some posts to override the default sorting (date descending)
 resources:
-  - src: "figs/dolpins.jpeg"
+  - src: "figs/dolphins.jpeg"
     params:
       caption: "Dolphins"
 ---
