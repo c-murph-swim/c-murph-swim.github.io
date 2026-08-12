@@ -16,7 +16,7 @@ weight:        # You can add weight to some posts to override the default sortin
 resources:
   - src: "figs/dolphins.jpeg"
     params:
-      caption: "Dolphins"
+      title: "Dolphins"
 ---
 
 # Catalina Channel Crossing -  August 7-8, 2025
