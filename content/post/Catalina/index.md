@@ -14,8 +14,8 @@ tags:
     - oceans-7
 weight:        # You can add weight to some posts to override the default sorting (date descending)
 resources:
-  - src: "figs/amie+mom+me-boat.jpeg"
-    title: "Staving off seasickness"
+  - src: "figs/breath-neil.jpeg"
+    title: "With Neil"
     params:
       alt: "Staving off seasickness"
 ---
