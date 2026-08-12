@@ -1,22 +1,59 @@
-<div class="gallery" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px;">
-  {{ $folder := .Get 0 | default "figs" }}
-  {{ $matchString := printf "%s/*" $folder }}
-  
+<!-- layouts/shortcodes/gallery.html -->
+{{ $folder := .Get 0 | default "figs" }}
+{{ $matchString := printf "%s/*" $folder }}
+
+<!-- Define CSS for the Masonry Collage -->
+<style>
+  .collage-container {
+    /* Create columns based on viewport size */
+    column-count: 1; /* Default: 1 column on mobile */
+    column-gap: 15px; /* Gap between columns */
+    width: 100%;
+  }
+
+  /* Breakpoints for dynamic column numbers */
+  @media (min-width: 600px) { .collage-container { column-count: 2; } } /* Tablets */
+  @media (min-width: 1000px) { .collage-container { column-count: 3; } } /* Desktops */
+
+  .collage-item {
+    display: inline-block; /* Required for column flow */
+    width: 100%; /* Fill the column width */
+    margin-bottom: 10px; /* Vertical gap between images */
+    break-inside: avoid; /* Prevent image breaking across columns */
+  }
+
+  .collage-item img {
+    width: 100%;
+    height: auto; /* Preserve aspect ratio (No Cropping!) */
+    display: block;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+
+  .collage-caption {
+    font-size: 0.85em;
+    text-align: center;
+    color: #555;
+    margin-top: 5px;
+    padding: 0 5px;
+    line-height: 1.3;
+  }
+</style>
+
+<!-- Render the Collage HTML -->
+<div class="collage-container">
   {{ range .Page.Resources.Match $matchString }}
-    <figure class="gallery-item" style="margin: 0;">
+    {{ $alt := .Params.alt | default .Name }}
+    
+    <figure class="collage-item">
+      <img src="{{ .RelPermalink }}" alt="{{ $alt }}" loading="lazy">
       
-      <!-- Set alt text: prefer params.alt, then Title, then fallback to filename -->
-      {{ $alt := .Params.alt | default .Title | default .Name }}
-      
-      <img src="{{ .RelPermalink }}" alt="{{ $alt }}" style="width: 100%; height: auto; border-radius: 4px;">
-      
-      <!-- Only display a caption if you defined a 'title' in the front matter -->
-      {{ with .Title }}
-        <figcaption style="font-size: 0.9em; text-align: center; color: #666; margin-top: 8px;">
+      {{ with .Params.caption }}
+        <figcaption class="collage-caption">
           {{ . }}
         </figcaption>
       {{ end }}
-      
     </figure>
+    
   {{ end }}
 </div>
