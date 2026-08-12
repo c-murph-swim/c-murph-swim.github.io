@@ -14,7 +14,7 @@ tags:
 weight:        # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-# Double Tahoe Length
+# Double Tahoe Length - July 21-22, 2026
 
 > Incline Village to Camp Richardson to Incline Village (N-S-N): ~42.6 miles/68.5 km. 
 > Lap 1: ~10 hours (N-S directional record); Lap 2: 10:54; Total: 20:54 (Tahoe Double Length Record)
