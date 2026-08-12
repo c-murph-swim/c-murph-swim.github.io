@@ -1,53 +1,22 @@
-<!-- layouts/shortcodes/gallery.html -->
-{{ $folder := .Get 0 | default "figs" }}
-{{ $matchString := printf "%s/*" $folder }}
-
-<style>
-  .square-grid-container {
-    display: grid;
-    /* Adjust '300px' below to make squares larger/smaller */
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
-    gap: 15px;
-    align-items: start; /* Prevents stretching when captions exist */
-  }
-
-  .grid-item {
-    margin: 0;
-    display: flex;
-    flex-direction: column; /* Stack img and figcaption */
-  }
-
-  .grid-item img {
-    width: 100%;
-    aspect-ratio: 1 / 1; /* Forces a perfect square */
-    object-fit: cover; /* Zooms/crops to fill the square without stretching */
-    display: block;
-    border-radius: 4px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  }
-
-  .grid-caption {
-    font-size: 0.85em;
-    text-align: center;
-    color: #555;
-    margin-top: 8px;
-    line-height: 1.3;
-  }
-</style>
-
-<div class="square-grid-container">
+<div class="gallery" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; align-items: start;">
+  {{ $folder := .Get 0 | default "figs" }}
+  {{ $matchString := printf "%s/*" $folder }}
+  
   {{ range .Page.Resources.Match $matchString }}
-    {{ $alt := .Params.alt | default .Name }}
-    
-    <figure class="grid-item">
-      <img src="{{ .RelPermalink }}" alt="{{ $alt }}" loading="lazy">
+    <figure class="gallery-item" style="margin: 0; display: block;">
       
+      <!-- Set alt text: prefer params.alt, then fallback to filename -->
+      {{ $alt := .Params.alt | default .Name }}
+      
+      <img src="{{ .RelPermalink }}" alt="{{ $alt }}" style="width: 100%; height: auto; display: block; border-radius: 4px;">
+      
+      <!-- Only display a caption if 'caption' is explicitly defined -->
       {{ with .Params.caption }}
-        <figcaption class="grid-caption">
+        <figcaption style="font-size: 0.9em; text-align: center; color: #666; margin-top: 8px;">
           {{ . }}
         </figcaption>
       {{ end }}
+      
     </figure>
-    
   {{ end }}
 </div>
