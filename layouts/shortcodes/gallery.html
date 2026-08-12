@@ -1,18 +1,14 @@
-<!-- layouts/shortcodes/gallery.html -->
 <div class="gallery" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px;">
-  <!-- Get the folder name from the shortcode parameter, default to "figs/*" if empty -->
   {{ $folder := .Get 0 | default "figs" }}
   {{ $matchString := printf "%s/*" $folder }}
   
   {{ range .Page.Resources.Match $matchString }}
     <div class="gallery-item">
       
-      <!-- Set alt text: prefer params.alt, then fallback to filename -->
       {{ $alt := .Params.alt | default .Name }}
       
       <img src="{{ .RelPermalink }}" alt="{{ $alt }}" style="width: 100%; height: auto; border-radius: 4px;">
       
-      <!-- Only display a caption if 'caption' is explicitly defined -->
       {{ with .Params.caption }}
         <div style="font-size: 0.9em; text-align: center; color: #666; margin-top: 8px;">
           {{ . }}
