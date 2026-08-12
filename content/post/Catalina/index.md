@@ -14,10 +14,9 @@ tags:
     - oceans-7
 weight:        # You can add weight to some posts to override the default sorting (date descending)
 resources:
-  - src: "figs/breath-neil.jpeg"
-    title: "With Neil"
+  - src: "figs/dolpins.jpeg"
     params:
-      alt: "Staving off seasickness"
+      caption: "Dolphins"
 ---
 
 # Catalina Channel Crossing -  August 7-8, 2025
