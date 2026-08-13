@@ -1,17 +1,21 @@
-<div class="gallery" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px;">
+<!-- layouts/shortcodes/gallery.html -->
+<div class="gallery" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; grid-auto-flow: dense;">
   {{ $folder := .Get 0 | default "figs" }}
   {{ $matchString := printf "%s/*" $folder }}
   
   {{ range .Page.Resources.Match $matchString }}
-    <div class="gallery-item">
+    
+    <!-- Get the span from params, or default to 1 -->
+    {{ $span := .Params.span | default 1 }}
+    
+    <div class="gallery-item" style="grid-column: span {{ $span }};">
       
-      {{ $alt := .Params.alt | default .Name }}
+      <img src="{{ .RelPermalink }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 4px;">
       
-      <img src="{{ .RelPermalink }}" alt="{{ $alt }}" style="width: 100%; height: auto; border-radius: 4px;">
-      
-      {{ with .Params.caption }}
+      <!-- Only display the text if you explicitly gave it a Title -->
+      {{ if ne .Title .Name }}
         <div style="font-size: 0.9em; text-align: center; color: #666; margin-top: 8px;">
-          {{ . }}
+          {{ .Title }}
         </div>
       {{ end }}
       
