@@ -1,18 +1,17 @@
-<!-- layouts/shortcodes/gallery.html -->
 <div class="gallery" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; grid-auto-flow: dense;">
   {{ $folder := .Get 0 | default "figs" }}
   {{ $matchString := printf "%s/*" $folder }}
   
   {{ range .Page.Resources.Match $matchString }}
     
-    <!-- Get the span from params, or default to 1 -->
-    {{ $span := .Params.span | default 1 }}
+    <!-- Get the span, default to 1 if it does not exist -->
+    {{ $span := default 1 .Params.span }}
     
     <div class="gallery-item" style="grid-column: span {{ $span }};">
       
       <img src="{{ .RelPermalink }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 4px;">
       
-      <!-- Only display the text if you explicitly gave it a Title -->
+      <!-- Only display the text if the title does not match the file name -->
       {{ if ne .Title .Name }}
         <div style="font-size: 0.9em; text-align: center; color: #666; margin-top: 8px;">
           {{ .Title }}
