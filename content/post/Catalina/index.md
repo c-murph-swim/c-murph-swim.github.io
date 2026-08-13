@@ -17,6 +17,7 @@ resources:
   - src: "figs/dolphins.jpeg"
     params:
       title: "Dolphins"
+      span: 2
 ---
 
 # Catalina Channel Crossing -  August 7-8, 2025
