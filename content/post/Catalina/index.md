@@ -15,8 +15,8 @@ tags:
 weight:        # You can add weight to some posts to override the default sorting (date descending)
 resources:
   - src: "figs/dolphins.jpeg"
+    title: "Dolphins"
     params:
-      title: "Dolphins"
       span: 2
 ---
 
