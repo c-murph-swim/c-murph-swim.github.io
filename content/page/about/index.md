@@ -14,6 +14,9 @@ Corey Murphey is a marathon open water swimmer based in Colorado. Originally fro
 When she is not swimming, Corey is likely working on her doctoral dissertation or hanging out with her three unruly but incredibly adorable Golden Retrievers. 
 
 ## Swim Highlights
+- North Channel (September 21, 2026), 9:11:23
+    - Course Record Fastest Female 
+    - 210th swimmer, 89th female
 - Double Lake Tahoe Length (July 21-22, 2026), 20:54
     - 4th Double Crossing
     - Fastest N-S directional swim ~10 hours
