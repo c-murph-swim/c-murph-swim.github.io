@@ -16,8 +16,7 @@ weight:        # You can add weight to some posts to override the default sortin
 
 # Double Tahoe Length - July 21-22, 2026
 
-> Incline Village to Camp Richardson to Incline Village (N-S-N): ~42.6 miles/68.5 km. 
-> Lap 1: ~10 hours (N-S directional record); Lap 2: 10:54; Total: 20:54 (Tahoe Double Length Record)
+
 
 This swim started as a joke, but quickly became my favorite adventure yet. Last October, I asked Sarah Thomas what I needed to do to prepare for my 2026 North Channel swim. She responded that Tahoe would be good, but Ryan, her husband, thought a "double Tahoe length would be great training for the North Channel." I responded "ha maybe...." And within 5 minutes of that conversation, I had emailed Tom "Reptile" Linthicum about a double Tahoe length. Within 15 minutes, I had booked it. I'm beginning to think I might be easily talked into things... Keep in mind, my longest swim up to this point was ~20 miles/9 hours and only 3 people had successfully completed the double (~42.6 miles). I had just signed myself up for a completely unknown, unfathomable, and frankly terrifying adventure. What could go wrong? 
 
@@ -65,3 +64,13 @@ And, of course, I need to thank my biggest supporter, bestest friend, kayak mach
 - My new feeds worked! I could eat after swimming! It's a miracle! Thank you, Infinit (seriously, I'm not kidding about this!)
 - Lake Tahoe is the most gorgeous lake ever and was incredibly nice to me for about 18.5 hours. We won't talk about the last 2.5 hours, thanks.
 - Surround yourself with people who believe in you and will go out of their way to make your dreams come true. All you have to do is trust they have your back and do the work. 
+
+---
+
+> **Double Length of Lake Tahoe**
+> - Incline Village to Camp Richardson to Incline Village (N-S-N): ~42.6 miles/68.5 km. 
+> - Lap 1: ~10 hours (N-S directional record); 
+> - Lap 2: 10:54; Total: 20:54 (Tahoe Double Length Record)
+
+
+{{< gallery "figs" >}}
