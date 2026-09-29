@@ -21,7 +21,7 @@ When she is not swimming, Corey is likely working on her doctoral dissertation o
     - 4th Double Crossing
     - Fastest N-S directional swim ~10 hours
     - Fastest N-S-N Double Crossing, 20:54
-- Double Lake Titicaca - Zamaitis Route (March 18, 2026), 9:32
+- Double Lake Titicaca - Zamaitis Route (March 18, 2026), 9:30:39
     - Fastest one-way (Copacabana to Isla Del Sol), 4:32
     - First double crossing
     - Fastest double crossing
