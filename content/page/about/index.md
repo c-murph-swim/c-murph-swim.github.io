@@ -15,17 +15,19 @@ When she is not swimming, Corey is likely working on her doctoral dissertation o
 
 ## Swim Highlights
 - North Channel (September 21, 2026), 9:11:23
-    - Course Record Fastest Female 
+    - Course Record Fastest Female (Guinness World Records 2026)
     - 210th swimmer, 89th female
 - Double Lake Tahoe Length (July 21-22, 2026), 20:54
     - 4th Double Crossing
     - Fastest N-S directional swim ~10 hours
     - Fastest N-S-N Double Crossing, 20:54
-- Double Lake Titicaca - Zamaitis Route (March 18, 2026), 9:30:39
-    - Fastest one-way (Copacabana to Isla Del Sol), 4:32
-    - First double crossing
-    - Fastest double crossing
-- Catalina Channel (August 7-8, 2025), 8:59
+- [Lake Titicaca - Double Crossing]() (March 18, 2026), 9:30:39
+    - **First** double crossing of the [Zemaitis route](https://ultraswimming.org/swims/2024/zemaitis-titicaca/) - Copacabana - Templo del Sol - Copacabana (31km)
+    - Fastest one-way crossing (Copacabana - Templo del Sol) - 4:32:02
+    - Fastest double crossing - 9:30:39
+- 2025 Swim the Suck, 2nd OA, 2nd Woman
+- 2025 Horsetooth 10k, 1st Woman, 3rd OA
+- [Catalina Channel]() (August 7-8, 2025), 8:59
 - Strait of Gibraltar (May 11, 2026), 3:42
     - tandem with Sue McKay, Nikko Price, and Marcelo Dietrich
 - [2025 SCAR swim challenge](https://c-murph-swim.github.io/p/scar-2025/), Overall Champion
